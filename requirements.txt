@@ -1,0 +1,2 @@
+# CPython 3.12.14 tested. The offline entry point uses only the standard library.
+# Third-party dependencies: none.

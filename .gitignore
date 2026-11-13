@@ -1,0 +1,46 @@
+# Local evidence, exchange data, generated outputs and coursework
+/local_evidence/
+/data/
+/results/
+/evidence/
+/output/
+/deliverables/
+/config/student*.json
+/experiments/*/raw/
+/experiments/*/clean/
+/experiments/*/*.csv
+/experiments/*/*.json
+Group Coursework*.docx
+*.zip
+*.pdf
+*.pptx
+
+# Credentials and private configuration
+.env
+.env.*
+.envrc
+.netrc
+.npmrc
+.pypirc
+credentials*.json
+secrets.*
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+
+# Python environments and generated files
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.coverage
+/build/
+/dist/
+/.build/
+*.egg-info/
+.DS_Store

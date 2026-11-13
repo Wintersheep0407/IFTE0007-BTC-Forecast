@@ -1,0 +1,12 @@
+{
+  "offline_python": "3.12.14",
+  "offline_third_party_dependencies": [],
+  "tested_platform": "Darwin arm64",
+  "original_run_dependencies": {
+    "numpy": "2.0.2",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.6.1",
+    "scipy": "1.18.1",
+    "requests": "2.32.5"
+  }
+}
